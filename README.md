@@ -8,31 +8,13 @@
 
 ## 🧑‍💻 Sobre mí
 
-Desarrollador Full Stack con experiencia práctica en automatización, despliegues y monitoreo de sistemas. Especializado en **Node.js, Ansible, Docker, CI/CD y Prometheus**. Enfocado en optimizar operaciones y rendimiento mediante automatización de infraestructura y mejoras en bases de datos.
+Desarrollador Full Stack con experiencia práctica en automatización, despliegues y monitoreo de sistemas. Enfocado en optimizar operaciones y rendimiento mediante automatización de infraestructura y mejoras en bases de datos.
 
-- 🔭 Actualmente trabajando en proyectos de monitoreo agrícola e IoT
-- 🌱 Aprendiendo constantemente sobre Kubernetes y arquitecturas cloud
-- 👯 Buscando colaborar en proyectos open source de DevOps y Full Stack
+- 🔭 Actualmente trabajando en el área de informática de una clínica, encargado del soporte, administración de servidores y mantenimiento de sistemas
+- 🌱 Aprendiendo constantemente sobre IA y Deep Learning
 - 📫 Contáctame: [muñozgarayalejandro@gmail.com](mailto:muñozgarayalejandro@gmail.com)
 
 ---
-
-## 🛠️ Stack Tecnológico
-
-```yaml
-Lenguajes:
-  - Node.js, Python, SQL
-
-DevOps & Cloud:
-  - Docker, Ansible, CI/CD, Prometheus, Grafana
-  - AWS, Power BI
-
-Bases de Datos:
-  - MySQL, SQL
-
-Herramientas:
-  - Git, Linux (Ubuntu/CentOS)
-```
 
 ### Tecnologías con las que trabajo
 
@@ -60,15 +42,6 @@ Sistema centralizado para configuración y administración de computadores vía 
 
 ### 📊 Plataforma de Análisis Agrícola (Geotrace / INIA)
 Backend en **Node.js + MySQL + Python** con optimización de consultas SQL (25-30% de mejora). Paneles en **Power BI** con alertas automatizadas vía WhatsApp. Arquitectura con **Docker** y principios de **Kubernetes**.
-
----
-
-## 📊 Estadísticas de GitHub
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bentlyy&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bentlyy&layout=compact&langs_count=7&theme=dark"/>
-</div>
 
 ---
 
