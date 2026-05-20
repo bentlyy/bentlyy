@@ -32,7 +32,7 @@ Desarrollador Full Stack con experiencia práctica en automatización, despliegu
 ## 📂 Proyectos Destacados
 
 ### 🏥 Sistema de Gestión Clínica (Clínica Salud Vital)
-[![GitHub](https://clinica-salud-vital.onrender.com)
+(https://clinica-salud-vital.onrender.com)
 
 Sistema full-stack para clínicas con **Node.js + Express 5 + TypeScript**, frontend en **React + Vite + MUI**, y base de datos **PostgreSQL 15**. Integra 14 módulos funcionales: agenda médica, historias clínicas electrónicas con CIE-10, recetas en PDF, facturación, órdenes de laboratorio, y auditoría. Incluye **4 modelos de Machine Learning** con **TensorFlow.js**: predicción de inasistencias, clasificación de diagnósticos, forecast de demanda y detección de anomalías en signos vitales. Arquitectura con pipeline de seguridad multicapa (Helmet, HPP, Rate Limiting, JWT, RBAC, Zod), pruebas automatizadas con Vitest + Supertest, y orquestación con Docker Compose.
 
