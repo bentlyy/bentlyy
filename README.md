@@ -8,7 +8,7 @@
 
 ## 🧑‍💻 Sobre mí
 
-Desarrollador Full Stack con experiencia en automatización, despliegues, monitoreo de sistemas y machine learning. Enfocado en optimizar operaciones y rendimiento mediante automatización de infraestructura, mejoras en bases de datos y soluciones inteligentes.
+Desarrollador Full Stack dedicado a construir sistemas inteligentes que integran IA, DevOps y Machine Learning. En cada uno de mis proyectos la optimización de operaciones, rendimiento y escalabilidad es parte intrínseca del desarrollo, aplicando seguridad multicapa (autenticación, cifrado, control de acceso), manejo estructurado de logs y errores, pipelines de CI/CD que garantizan despliegues confiables y autónomos. Cada proyecto — clínicas con modelos predictivos, plataformas IoT, talleres automatizados — forma un ecosistema donde desarrollo, infraestructura e inteligencia artificial convergen en un software eficiente, seguro y autosuficiente.
 
 - 🔭 Actualmente desarrollando [**Clínica Salud Vital**](https://github.com/bentlyy/clinic-backend), un sistema de gestión clínica full-stack con machine learning integrado
 - 🌱 Aprendiendo constantemente sobre IA y Deep Learning
