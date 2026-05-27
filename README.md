@@ -4,7 +4,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Full+Stack+Developer;DevOps+%26+Automation;Node.js+%7C+Docker+%7C+CI%2FCD;Machine+Learning+%7C+Python;Always+learning+new+things" alt="Typing SVG" />
 
-[![Portafolio Web • amgdeveloper.cl](https://img.shields.io/badge/Portafolio_Web_%E2%80%A2_amgdeveloper.cl-0D1117?style=for-the-badge&logo=link&logoColor=white)](https://amgdeveloper.cl)
+## 🌐 Portafolio Web — [amgdeveloper.cl](https://amgdeveloper.cl)
 ---
 
 ## 🧑‍💻 Sobre mí
