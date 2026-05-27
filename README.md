@@ -4,7 +4,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Full+Stack+Developer;DevOps+%26+Automation;Node.js+%7C+Docker+%7C+CI%2FCD;Machine+Learning+%7C+Python;Always+learning+new+things" alt="Typing SVG" />
 
-[![🌐 amgdeveloper.cl](https://img.shields.io/badge/amgdeveloper.cl-FF7139?style=for-the-badge&logo=google-chrome&logoColor=white)](https://amgdeveloper.cl)
+[![amgdeveloper.cl](https://img.shields.io/badge/amgdeveloper.cl-0D1117?style=for-the-badge&logo=link&logoColor=white)](https://amgdeveloper.cl)
 
 ---
 
