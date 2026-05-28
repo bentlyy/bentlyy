@@ -45,6 +45,3 @@ Sistema full-stack diseñado como **SaaS multi-tenencia** para administración i
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/bentlyy)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:muñozgarayalejandro@gmail.com)
 ---
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=bentlyy&color=blue&style=flat-square&label=Visitas" alt="Visitas"/>
-</p>
