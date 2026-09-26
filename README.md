@@ -2,7 +2,7 @@
 
 ### Ingeniero Civil en Informática · Full Stack Developer | DevOps | Machine Learning
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Full+Stack+Developer;TypeScript+%7C+Node.js+%7C+React;DevOps+%26+Automation;Docker+%7C+CI%2FCD;Machine+Learning+%7C+Python;Siempre+aprendiendo+cosas+nuevas" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Full+Stack+Developer;TypeScript+%7C+Node.js+%7C+React;DevOps+%26+Automation;Docker+%7C+CI%2FCD;Machine+Learning+%7C+Python;Siempre+aprendiendo" alt="Typing SVG" />
 
 ## 🌐 Portafolio Web — [amgdeveloper.cl](https://amgdeveloper.cl) | [Descargar CV](https://amgdeveloper.cl/cv.pdf)
 
